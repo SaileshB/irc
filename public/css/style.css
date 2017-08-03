@@ -1,0 +1,20 @@
+.listItems a{
+    text-decoration: none !important;
+
+}
+
+.iconColor{
+    color: gray;
+}
+.logo{
+
+}
+
+.logo img{
+    padding: 20px;
+    width: 100%;
+
+}
+.pbg{
+    padding: 10px;
+}
